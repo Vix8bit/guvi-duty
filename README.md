@@ -1,2 +1,2 @@
 # guvi-duty
-guvi_devops Tasks
+guvi_devops tasks
